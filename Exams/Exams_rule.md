@@ -5,9 +5,11 @@ As you know Big Data is an integrated course which is made up of two modules, Bi
 Both the mid-term, final exam and the complete exam will be divided into two steps, described as follow:
 
 1. **Practical written exam**  
+
 You will be asked to solve some exercises (like the ones we explored during the practical lessons) based on the concepts regarding the theoretical part of the course, using the techniques we explored in our practical lessons. You will have access to both the theoretical slides and the documentation of the libraries you will need to solve the proposed exercises.
 
 2. **Oral exam**
+
 It will be an oral discussion about the theoretical topics of the course.
 
 In this folder a demo written exam is available.
